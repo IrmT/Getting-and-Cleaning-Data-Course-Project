@@ -19,16 +19,12 @@ Create one R script called run_analysis.R that does the following.
     * Extracts only the measurements on the mean and standard deviation for each measurement.
     * Uses descriptive activity names to name the activities in the data set
     * Appropriately labels the data set with descriptive variable names.
-    * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for 
-
-each activity and each subject.
+    * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The code also includes the script for downloading the data from the online source.
 
 Files contained in this repo are:
 	* run_analysis.R : R code to execute the processes described above
 	* finaldata.txt : The newly created tidy data set with means/SDs of the data by subject and activity
-	* CodeBook.md : A code book which gives detailed information about the variables, the data, and any 
-
-transformations or work that was performed to clean up the data.
+	* CodeBook.md : A code book which gives detailed information about the variables, the data, and any transformations or work that was performed to clean up the data.
 
